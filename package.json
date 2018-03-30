@@ -1,0 +1,26 @@
+{
+  "name": "autotune-report",
+  "version": "1.0.0",
+  "description": "Generate human-readable reports from an autotune profile.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cascer1/autotune-report.git"
+  },
+  "keywords": [
+    "autotune",
+    "openaps",
+    "report",
+    "profile"
+  ],
+  "author": "Cas Eliëns",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cascer1/autotune-report/issues"
+  },
+  "homepage": "https://github.com/cascer1/autotune-report#readme"
+}
